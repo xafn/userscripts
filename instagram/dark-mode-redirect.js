@@ -3,7 +3,7 @@
 // @description Redirect to Instagram's official dark theme site.
 // @version     1.0
 // @author      afn (https://github.com/xafn)
-// @namespace   https://github.com/xafn/userscripts/tree/main/instagram/dark-mode-redirect
+// @namespace   https://github.com/xafn/userscripts/blob/main/instagram/dark-mode-redirect.js
 // @license     MIT
 // @match       https://www.instagram.com/
 // @include     *://www.instagram.com/*
